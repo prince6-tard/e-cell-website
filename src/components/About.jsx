@@ -16,7 +16,7 @@ const containerRef = useRef(null);
   return (
     <>
       {/* Hero Section */}
-      <section className="min-h-screen flex flex-col md:flex-row items-center justify-between px-8 md:px-16  ">
+      <section id="about-us" className="min-h-screen flex flex-col md:flex-row items-center justify-between px-8 md:px-16  ">
         <div className="max-w-2xl">
           <SplitText
             text="What is E-CELL?"

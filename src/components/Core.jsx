@@ -145,7 +145,7 @@ const Core = () => {
 
   return (
     <>
-      <div className="mt-8 flex flex-col items-center">
+      <div id="core-members" className="mt-8 flex flex-col items-center">
         <h1 className='text-4xl font-bold text-[#FFCC00] mb-8'>Our Core Members</h1>
 
         <div className='w-full flex flex-col items-center gap-[20px]'>
